@@ -2,9 +2,13 @@
 Market Status
 
 Websites links: "https://coinmarketcap.com/currencies", "https://www.tgju.org/profile"
+
 Implemented libraries and packages in this program includes: REST API, run count txt files, NoSQL DB and PyQt5.
+
 REST API: requests, beautiful soup
+
 NoSQL DB: (MongoDB) pymongo
+
 PyQt: PyQt5.QtWidgets, PyQt5.QtGui and etc.
 
 Version.1: This program is based on reading data from web and importing their details to database. 
